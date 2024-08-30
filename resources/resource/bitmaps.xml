@@ -1,0 +1,8 @@
+<resources>
+    <bitmap id="LauncherIcon" filename="drawables/icon.png" />
+    <bitmap id="DoNotDisturbIcon" filename="drawables/donotdisturb.png">
+        <palette>
+            <color>000000</color>
+        </palette>
+    </bitmap>
+</resources>
